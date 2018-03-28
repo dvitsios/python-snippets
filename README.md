@@ -1,4 +1,4 @@
-### Useful Python snippets
+### Useful Python snippets:
 
 - [Call Unix command and read STDOUT and STDERR](call_unix_cmd_w_stdout_stderr.ipynb)
 
